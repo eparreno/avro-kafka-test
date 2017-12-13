@@ -1,0 +1,18 @@
+{
+  "name": "avro-js",
+  "version": "0.0.1",
+  "description": "A simple Avro producer/consumer in nodejs",
+  "author": "Emili",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StuartApp/stuart-api-socket"
+  },
+  "dependencies": {
+    "avro-js": "*",
+    "avsc": "*",
+    "kafka-node": "2.2.3"
+  },
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,11 @@
+{
+"namespace": "example.avro",
+ "type": "record",
+ "name": "User",
+ "fields": [
+     {"name": "created_at", "type": "string"},
+     {"name": "name", "type": "string"},
+     {"name": "favorite_number",  "type": "int"},
+     {"name": "favorite_color", "type": "string"}
+ ]
+}
