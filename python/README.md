@@ -1,5 +1,3 @@
-# Simple Python app to produce and consume Avro messages through Kafka
-
 ## Install
 
 ```

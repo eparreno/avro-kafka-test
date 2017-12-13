@@ -1,5 +1,3 @@
-# Simple Ruby app to produce and consume Avro messages through Kafka
-
 ## Install
 
 ```

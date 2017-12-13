@@ -1,5 +1,3 @@
-# Simple nodejs app to produce and consume Avro messages through Kafka
-
 ## Install
 
 ```
