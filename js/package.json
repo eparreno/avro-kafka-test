@@ -11,7 +11,7 @@
   "dependencies": {
     "avro-js": "*",
     "avsc": "*",
-    "kafka-node": "2.2.3"
+    "kafka-node": "*"
   },
   "devDependencies": {
   }
